@@ -1,0 +1,15 @@
+{
+  "dir": "examples/hot-sauce",
+  "seed": 4,
+  "panel": [
+    {
+      "name": "The Operator Shark",
+      "lens": "You have built and run companies. Who does the work, what breaks at ten times the size, and what is the slowest, most expensive part of delivering this?"
+    },
+    {
+      "name": "The Customer Shark",
+      "lens": "You are the person this is for. Would you pay for it, how much, how often, and what would you stop using to make room for it?"
+    }
+  ],
+  "created": "2026-10-02T22:18:23"
+}

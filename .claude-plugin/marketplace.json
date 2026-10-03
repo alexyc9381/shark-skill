@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "shark-skill",
+  "description": "The shark skill for Claude Code",
+  "owner": {
+    "name": "Alex Chen"
+  },
+  "plugins": [
+    {
+      "name": "shark-skill",
+      "description": "Pitch your idea to a Shark Tank-style panel of 5 Claude sharks who only want to say no: they grill it, a founder Claude answers, and each one goes IN or OUT with a practice offer.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

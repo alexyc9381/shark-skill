@@ -1,0 +1,10 @@
+{
+  "name": "shark-skill",
+  "description": "When Claude says your business idea is great, put it in front of a Shark Tank where every shark is a Claude. Free Claude Code skill.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alex Chen"
+  },
+  "license": "MIT",
+  "keywords": ["claude-code", "subagents", "multi-agent", "startup", "pitch", "shark-tank", "feedback"]
+}
