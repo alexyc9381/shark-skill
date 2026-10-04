@@ -9,6 +9,12 @@ description: >-
   thinks every idea is great, asks "would investors fund this", wants to
   practice a pitch, or says "pitch" or "shark tank".
 argument-hint: "[--investors N] [--seed S] <the business idea>"
+license: MIT
+metadata:
+  author: "Alex Chen (@nocodealex)"
+  homepage: "https://chen.media"
+  source: "https://github.com/alexyc9381/shark-skill"
+  version: "1.0.0"
 ---
 
 # shark
