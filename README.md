@@ -40,6 +40,12 @@ git clone https://github.com/alexyc9381/shark-skill
 cp -r shark-skill/skills/shark ~/.claude/skills/
 ```
 
+Or with the skills CLI (works for Claude Code and other agents):
+
+```bash
+npx skills add alexyc9381/shark-skill
+```
+
 Or as a plugin:
 
 ```
