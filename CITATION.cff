@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you show this in a video, post, article or paper, please credit it as below and tag @nocodealex."
+type: software
+title: "shark-skill: a Shark Tank of Claude sharks for Claude Code"
+abstract: "A free Claude Code skill that pitches a business idea to a Shark Tank-style panel of Claude sub-agents who grill it, hear a founder Claude answer, and each decide IN or OUT with a practice offer."
+authors:
+  - given-names: Alex
+    family-names: Chen
+    alias: nocodealex
+    website: "https://chen.media"
+repository-code: "https://github.com/alexyc9381/shark-skill"
+url: "https://chen.media/guides/pitch-your-idea-to-a-panel-of-claude-sharks-who-want-to-say-no-how-to-install-the-free-skill"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-03"
+keywords:
+  - claude-code
+  - claude-skills
+  - subagents
+  - multi-agent
+  - startup
+  - pitch
+  - shark-tank

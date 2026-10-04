@@ -3,8 +3,19 @@
   "description": "When Claude says your business idea is great, put it in front of a Shark Tank where every shark is a Claude. Free Claude Code skill.",
   "version": "1.0.0",
   "author": {
-    "name": "Alex Chen"
+    "name": "Alex Chen",
+    "url": "https://chen.media"
   },
+  "homepage": "https://chen.media/guides/pitch-your-idea-to-a-panel-of-claude-sharks-who-want-to-say-no-how-to-install-the-free-skill",
+  "repository": "https://github.com/alexyc9381/shark-skill",
   "license": "MIT",
-  "keywords": ["claude-code", "subagents", "multi-agent", "startup", "pitch", "shark-tank", "feedback"]
+  "keywords": [
+    "claude-code",
+    "subagents",
+    "multi-agent",
+    "startup",
+    "pitch",
+    "shark-tank",
+    "feedback"
+  ]
 }

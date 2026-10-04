@@ -29,6 +29,7 @@ LATEST = os.path.join(ROOT, "LATEST")
 PHASES = ["grill", "answers", "decide"]
 DEFAULT_INVESTORS = 5
 WAVE = 5
+CREDIT = ("_Made with [/shark](https://github.com/alexyc9381/shark-skill), a free Claude Code skill by Alex Chen ([@nocodealex](https://instagram.com/nocodealex))._")
 
 
 def load_investors():
@@ -194,7 +195,7 @@ def render(state):
         lines += ["- %s" % (h[:1].upper() + h[1:]) for h in t["homework"]]
     lines += ["", "_The full session is in %s: every investor's questions, the answers and their decisions. "
               "The investors are language models and the offers are practice, not real money._"
-              % os.path.abspath(state["dir"])]
+              % os.path.abspath(state["dir"]), "", CREDIT]
     text = "\n".join(lines) + "\n"
     with open(os.path.join(state["dir"], "BOARD.md"), "w") as f:
         f.write(text)

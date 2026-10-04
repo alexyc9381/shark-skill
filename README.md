@@ -4,6 +4,8 @@ When Claude says your business idea is great, put it in front of a Shark Tank wh
 Claude, and they all want to say no.
 One Claude Code skill. Free, MIT, no signup, no API key, nothing to connect.
 
+Made by **Alex Chen** ([@nocodealex](https://instagram.com/nocodealex)), an AI creator who builds free Claude Code skills. Step-by-step guide at [chen.media](https://chen.media/guides/pitch-your-idea-to-a-panel-of-claude-sharks-who-want-to-say-no-how-to-install-the-free-skill).
+
 Ask Claude "is this a good business idea?" and it usually says yes. `/shark` puts the same idea in
 front of a Shark Tank-style panel instead:
 
@@ -73,6 +75,18 @@ invests, never answers for you and never edits a decision. The investors are in
 ```bash
 python3 -m unittest discover -s tests
 ```
+
+## Making a video or post about this?
+
+Go ahead. Credit it like this, in your caption or description:
+
+```text
+/shark skill by Alex Chen (@nocodealex): github.com/alexyc9381/shark-skill
+```
+
+Tag [@nocodealex](https://instagram.com/nocodealex) so I can see it. Every board the skill writes already ends with the same credit, so leave it in the shot.
+
+Writing about it or citing it in a paper? Use **Cite this repository** in the sidebar on GitHub.
 
 ## Uninstall
 

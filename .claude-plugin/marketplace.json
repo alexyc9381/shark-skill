@@ -10,7 +10,12 @@
       "name": "shark-skill",
       "description": "Pitch your idea to a Shark Tank-style panel of 5 Claude sharks who only want to say no: they grill it, a founder Claude answers, and each one goes IN or OUT with a practice offer.",
       "source": "./",
-      "category": "productivity"
+      "category": "productivity",
+      "author": {
+        "name": "Alex Chen",
+        "url": "https://chen.media"
+      },
+      "homepage": "https://chen.media/guides/pitch-your-idea-to-a-panel-of-claude-sharks-who-want-to-say-no-how-to-install-the-free-skill"
     }
   ]
 }

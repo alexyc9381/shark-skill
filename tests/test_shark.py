@@ -75,6 +75,7 @@ class SharkTest(unittest.TestCase):
         self.assertIn("The founder needs to find out the shipping cost", text)
         second = state["panel"][1]["name"]
         self.assertIn("| %s | OUT | none |" % second, text)
+        self.assertTrue(text.rstrip().endswith(shark.CREDIT))
 
     def test_no_deal_headline(self):
         state = self.open_session("--investors", "2", "--seed", "1")

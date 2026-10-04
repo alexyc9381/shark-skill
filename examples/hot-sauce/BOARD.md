@@ -24,3 +24,5 @@
 - The founder needs to find out why each of the 12 says they subscribed, and whether they knew the founder before buying. The pitch says only that all 12 came from posting on Instagram. It has no ad results, so nothing shows whether a stranger reached by an ad would subscribe or stay.
 
 _The full session is in examples/hot-sauce: every investor's questions, the answers and their decisions. The investors are language models and the offers are practice, not real money._
+
+_Made with [/shark](https://github.com/alexyc9381/shark-skill), a free Claude Code skill by Alex Chen ([@nocodealex](https://instagram.com/nocodealex))._
